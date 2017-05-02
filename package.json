@@ -1,0 +1,23 @@
+{
+  "name": "react-next-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthik M A M <karthik_m_a_m@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^2.2.0",
+    "react": "^15.5.4",
+    "react-addons-css-transition-group": "^15.5.2",
+    "react-dom": "^15.5.4",
+    "react-no-ssr": "^1.1.0"
+  }
+}
